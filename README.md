@@ -1,10 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=justinamiller-badge">
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/justin-miller-793a019a/" title="LinkedIn Profile">LinkedIn</a></code>
-</h5>
-
-
 | Package     | Nuget version | Download |
 | ----------- | ----------- |----------- |
 |  [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)    | | 7.8k+ Stars  |
