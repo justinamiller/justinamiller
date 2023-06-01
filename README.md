@@ -2,11 +2,17 @@
 
 | Package     | Nuget version | Download |
 | ----------- | ----------- |----------- |
-|  [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)    | | 7.8k+ Stars  |
-|  [C# Coding Guidelines & Practices](https://github.com/justinamiller/DotNet-Coding-Guidelines)    |  | 300+ Stars |
-|  [C# Lite StringBuilder](https://github.com/justinamiller/LiteStringBuilder)    |  <img src="https://img.shields.io/nuget/vpre/LiteStringBuilder">   | <img src="https://img.shields.io/nuget/dt/LiteStringBuilder">|
-|  [C# Fast JSON Serializer](https://github.com/justinamiller/Zippy)    |  <img src="https://img.shields.io/nuget/vpre/Zippy">   | <img src="https://img.shields.io/nuget/dt/Zippy"> |
-|  [C# Simple, light weight, thread safe object pool](https://github.com/justinamiller/LightObjectPool)    |  <img src="https://img.shields.io/nuget/vpre/LightObjectPool">   | <img src="https://img.shields.io/nuget/dt/LightObjectPool"> |
+|  [.NET Lite StringBuilder](https://github.com/justinamiller/LiteStringBuilder)    |  <img src="https://img.shields.io/nuget/vpre/LiteStringBuilder">   | <img src="https://img.shields.io/nuget/dt/LiteStringBuilder">|
+|  [.NET Fast JSON Serializer](https://github.com/justinamiller/Zippy)    |  <img src="https://img.shields.io/nuget/vpre/Zippy">   | <img src="https://img.shields.io/nuget/dt/Zippy"> |
+|  [.NET Simple, light weight, thread safe object pool](https://github.com/justinamiller/LightObjectPool)    |  <img src="https://img.shields.io/nuget/vpre/LightObjectPool">   | <img src="https://img.shields.io/nuget/dt/LightObjectPool"> |
+|  [.NET Commonly used programming patterns and utilities](https://github.com/justinamiller/Shared.Extensions)    |  <img src="https://img.shields.io/nuget/vpre/Shared.DotNet.Extensions">   | <img src="https://img.shields.io/nuget/dt/Shared.DotNet.Extensions"> |
+
+| Article     | Stars | 
+| ----------- | ----------- |
+|  [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)  | 7.8k+  |
+|  [.NET Coding Guidelines & Practices](https://github.com/justinamiller/DotNet-Coding-Guidelines)   | 300+ |
+|  [What is Enterprise Architecture](https://github.com/justinamiller/EnterpriseArchitecture)   | 190+ |
+|  [Designing a Microservices Architecture](https://github.com/justinamiller/Microservices-Architecture-Guidelines)   | 300+ |
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
