@@ -1,4 +1,3 @@
-### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=justinamiller-badge">
 
 <h5 align="center">
