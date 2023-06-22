@@ -2,10 +2,10 @@
 
 | Package     | Nuget version |
 | ----------- | ----------- |
-|  [.NET Lite StringBuilder](https://github.com/justinamiller/LiteStringBuilder)    |  ![NuGet Badge](https://buildstats.info/nuget/LiteStringBuilder)
+|  [.NET Lite StringBuilder](https://github.com/justinamiller/LiteStringBuilder)    |  [![NuGet Badge](https://buildstats.info/nuget/LiteStringBuilder)](https://www.nuget.org/packages/LiteStringBuilder/) |
 |  [.NET Fast JSON Serializer](https://github.com/justinamiller/zippy) |  [![NuGet Badge](https://buildstats.info/nuget/zippy)](https://www.nuget.org/packages/zippy/)   | 
-|  [.NET Simple, light weight, thread safe object pool](https://github.com/justinamiller/LightObjectPool)    |  <img src="https://img.shields.io/nuget/vpre/LightObjectPool">   |
-|  [.NET Commonly used programming patterns and utilities](https://github.com/justinamiller/Shared.Extensions)    |  <img src="https://img.shields.io/nuget/vpre/Shared.DotNet.Extensions">   |
+|  [.NET Simple, light weight, thread safe object pool](https://github.com/justinamiller/LightObjectPool)    |  [![NuGet Badge](https://buildstats.info/nuget/LightObjectPool)](https://www.nuget.org/packages/LightObjectPool/)   |
+|  [.NET Commonly used programming patterns and utilities](https://github.com/justinamiller/Shared.Extensions)    | [![NuGet Badge](https://buildstats.info/nuget/Shared.DotNet.Extensions)](https://www.nuget.org/packages/Shared.DotNet.Extensions/) |
 
 | Article     | Stars | 
 | ----------- | ----------- |
