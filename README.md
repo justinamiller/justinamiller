@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=justinamiller-badge">
 
-| Package     | Nuget version | Download |
-| ----------- | ----------- |----------- |
-|  [.NET Lite StringBuilder](https://github.com/justinamiller/LiteStringBuilder)    |  <img src="https://img.shields.io/nuget/vpre/LiteStringBuilder">   | <img src="https://img.shields.io/nuget/dt/LiteStringBuilder">|
-|  [.NET Fast JSON Serializer](https://github.com/justinamiller/Zippy)    |  <img src="https://img.shields.io/nuget/vpre/Zippy">   | <img src="https://img.shields.io/nuget/dt/Zippy"> |
-|  [.NET Simple, light weight, thread safe object pool](https://github.com/justinamiller/LightObjectPool)    |  <img src="https://img.shields.io/nuget/vpre/LightObjectPool">   | <img src="https://img.shields.io/nuget/dt/LightObjectPool"> |
-|  [.NET Commonly used programming patterns and utilities](https://github.com/justinamiller/Shared.Extensions)    |  <img src="https://img.shields.io/nuget/vpre/Shared.DotNet.Extensions">   | <img src="https://img.shields.io/nuget/dt/Shared.DotNet.Extensions"> |
+| Package     | Nuget version |
+| ----------- | ----------- |
+|  [.NET Lite StringBuilder](https://github.com/justinamiller/LiteStringBuilder)    |  ![NuGet Badge](https://buildstats.info/nuget/LiteStringBuilder)
+|  [.NET Fast JSON Serializer](https://github.com/justinamiller/zippy) |  [![NuGet Badge](https://buildstats.info/nuget/zippy)](https://www.nuget.org/packages/zippy/)   | 
+|  [.NET Simple, light weight, thread safe object pool](https://github.com/justinamiller/LightObjectPool)    |  <img src="https://img.shields.io/nuget/vpre/LightObjectPool">   |
+|  [.NET Commonly used programming patterns and utilities](https://github.com/justinamiller/Shared.Extensions)    |  <img src="https://img.shields.io/nuget/vpre/Shared.DotNet.Extensions">   |
 
 | Article     | Stars | 
 | ----------- | ----------- |
