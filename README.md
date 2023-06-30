@@ -7,7 +7,7 @@
 |  [.NET Simple, light weight, thread safe object pool](https://github.com/justinamiller/LightObjectPool)    |  [![NuGet Badge](https://buildstats.info/nuget/LightObjectPool)](https://www.nuget.org/packages/LightObjectPool/)   |
 |  [.NET Commonly used programming patterns and utilities](https://github.com/justinamiller/Shared.Extensions)    | [![NuGet Badge](https://buildstats.info/nuget/Shared.DotNet.Extensions)](https://www.nuget.org/packages/Shared.DotNet.Extensions/) |
 |  [.NET Fast Reflection](https://github.com/justinamiller/FastReflection)    | [![NuGet Badge](https://buildstats.info/nuget/FastReflection.NET)](https://www.nuget.org/packages/FastReflection.NET/) |
-|  [Avro.NET](https://github.com/justinamiller/Avro.NET)    | [![NuGet Badge](https://buildstats.info/nuget/Avro.NET)](https://www.nuget.org/packages/Avro.NET/) |
+|  [Avro.NET - rapid Avro de/serializer](https://github.com/justinamiller/Avro.NET)    | [![NuGet Badge](https://buildstats.info/nuget/Avro.NET)](https://www.nuget.org/packages/Avro.NET/) |
 
 | Article     | Stars | 
 | ----------- | ----------- |
