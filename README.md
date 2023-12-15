@@ -11,7 +11,7 @@
 
 | Article     | Stars | 
 | ----------- | ----------- |
-|  [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)  | 7.9k+  |
+|  [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)  | 8.5k+  |
 |  [.NET Coding Guidelines & Practices](https://github.com/justinamiller/DotNet-Coding-Guidelines)   | 300+ |
 |  [What is Enterprise Architecture](https://github.com/justinamiller/EnterpriseArchitecture)   | 190+ |
 |  [Designing a Microservices Architecture](https://github.com/justinamiller/Microservices-Architecture-Guidelines)   | 300+ |
